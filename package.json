@@ -1,6 +1,7 @@
 {
   "name": "heroku-node",
   "description": "Our sample Node to Heroku app",
+  "engines": { "node": "7.1.0"},
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
